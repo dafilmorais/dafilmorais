@@ -33,8 +33,9 @@ I'm deeply passionate about software development and dedicated to creating innov
 I'm constantly inspired by the potential of software to simplify processes, enhance user experiences, and transform ideas into reality. My goal is to continue pushing the boundaries of what's possible in the world of software, delivering practical solutions that improve and streamline the way we work and interact with technology.
 <br>Currently, **I'm open to work and employment opportunities**.
 
-- :fireworks: Finished my Bachelor's n 2023.
 - 🔭 Currently in my Master's in Software Engineering.
+- :fireworks: Finished my Bachelor's in Software Engineering in 2023.
+- :fireworks: Finished my EQF Level 5 in Mobile and Web Development in 2020.
 - 🌱 I'm always trying new technology.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about Vue.js, React.js, Ionic, MySQL, Docker.....
