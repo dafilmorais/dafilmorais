@@ -38,7 +38,7 @@ I'm constantly inspired by the potential of software to simplify processes, enha
 - :fireworks: Finished my EQF Level 5 in Mobile and Web Development in 2020.
 - 🌱 I'm always trying new technology.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
-- 💬 Ask me about Vue.js, React.js, Ionic, MySQL, Docker.....
+- 💬 Ask me about Vue.js, React.js, Ionic, Angular, Kafka, MySQL, PostgreSQL, Docker.....
 - 📫 I am just one mail away - check my profile!
 - 🚀 Superpower: Turning Coffee into Code ☕💻
 - :partying_face: Fun fact: I love to game, I love outdoors, I love cars and choppers.
