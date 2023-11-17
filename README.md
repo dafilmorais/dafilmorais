@@ -42,7 +42,7 @@ I'm constantly inspired by the potential of software to simplify processes, enha
 - 📫 I am just one mail away - check my profile!
 - 🚀 Superpower: Turning Coffee into Code ☕💻
 - :partying_face: Fun fact: I love to game, I love outdoors, I love cars and choppers.
-- :wrench: Tools - VSCode, Android Studio, Postman, MySQL Workbench, JupyterNotebook, InteliJ, Anaconda.
+- :wrench: Tools - VSCode, Android Studio, Postman, MySQL Workbench, DBeaver, Docker, JupyterNotebook, InteliJ, Anaconda.
 
 ### Where to find me
 
