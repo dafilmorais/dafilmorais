@@ -26,7 +26,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 My name is Daniel Morais, and I am from Portugal <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1f5-1f1f9.svg" alt="Redis" width="15" height="15"><br>
-I am a <b>Full Stack Developer</b> currently doing my Master's in Software Engineering and holding a Bachelor's in Software Engineering, a EQF level 5 in Mobile/Web Development.<br>
+I am a <b>Full Stack Developer</b> currently doing my Master's in Software Engineering, have a Bachelor's in Software Engineering and a EQF level 5 in Mobile/Web Development.<br>
 
 I'm deeply passionate about software development and dedicated to creating innovative solutions for everyday challenges. Whether it's crafting user-friendly web applications, optimizing database performance, or implementing elegant solutions to real-world problems, I thrive on the opportunity to make a positive impact through technology.
 
